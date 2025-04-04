@@ -1,0 +1,6 @@
+[submodule "LibraFlaskBack"]
+	path = LibraFlaskBack
+	url = https://github.com/9erikSantos6/LibraFlaskBack.git
+[submodule "LibraFlaskFront"]
+	path = LibraFlaskFront
+	url = https://github.com/9erikSantos6/LibraFlaskFront.git
