@@ -5,5 +5,5 @@ CRUD MVC com Flask
 
 Este repositório contém múltiplos projetos relacionados:
 
-- [LibraFlask Backend](https://github.com/seu-usuario/projeto1.git) - Backend / API Flask
-- [LibraFlask Frontend](https://github.com/seu-usuario/projeto2.git) - Frontend em Javascript
+- [LibraFlask Backend](https://github.com/9erikSantos6/LibraFlaskBack.git) - Backend / API Flask
+- [LibraFlask Frontend](https://github.com/9erikSantos6/LibraFlaskFront.git) - Frontend em Javascript
