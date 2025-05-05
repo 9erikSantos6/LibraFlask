@@ -1,6 +1,8 @@
 [submodule "LibraFlaskBack"]
 	path = LibraFlaskBack
-	url = https://github.com/9erikSantos6/LibraFlaskBack.git
+  url = https://github.com/9erikSantos6/LibraFlaskBack.git
+  branch = main
 [submodule "LibraFlaskFront"]
 	path = LibraFlaskFront
-	url = https://github.com/9erikSantos6/LibraFlaskFront.git
+  url = https://github.com/9erikSantos6/LibraFlaskFront.git
+  branch = main
