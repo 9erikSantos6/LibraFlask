@@ -25,14 +25,18 @@ Este repositório contém múltiplos projetos relacionados:
 ## 🧱 Tecnologias Utilizadas
 
 ### Backend:
-- Python 3.x
-- Flask
-- SQLite3 
+* Python 3.x
+* Flask
+* SQLite3
+* SQLAlchemy
+* Marshmallow
+* `python-dotenv` (para variáveis de ambiente)
+* `flask-cors` (para configuração de CORS)
 
 ### Frontend:
 - HTML5
 - CSS3
-- JavaScript (moderno, ES6+)
+- JavaScript
 
 ---
 
@@ -44,11 +48,10 @@ Este repositório contém múltiplos projetos relacionados:
 ---
 
 ## 📦 Próximas Funcionalidades
-- Marcações de página por livro
-- Favoritos
-- Notas pessoais
-- Categorias e tags
-- Login e autenticação
+### Frontend:
+ - Login de usuários
+ - Aprendentação de dados de livros
+ - Interação de usuários com livros
 
 ---
 
